@@ -1,6 +1,3 @@
-
-"To-Do-List" 
-=======
 # Simple To-Do List
 
 This project is a simple To-Do List application implemented using HTML, CSS, and JavaScript. It allows users to add, remove, and mark tasks as completed.
