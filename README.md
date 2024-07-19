@@ -14,3 +14,4 @@ This project is a simple To-Do List application implemented using HTML, CSS, and
 - **Responsive Design:** The application is designed to be responsive and works well on various screen sizes.
 >>>>>>> ce8272eb39ed8c32b5f83f49a107c9e0ede17d28
 "# Spam-Mail-Detection" 
+"# Spam-Mail-Detection" 
